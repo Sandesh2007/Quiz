@@ -10,28 +10,27 @@ A simple Java console-based quiz game created by San Desh.
 
 [git clone https://github.com/your-username/basic-quiz-game.git](https://github.com/sandygmr12/Quiz.git)
 
-bash
-
-
 2. Navigate to the project directory:
+
+bash
 
 cd basic-quiz-game
 
-bash
-
-
 3. Compile the Java source file:
+
+bash
 
 javac Quiz.java
 
 markdown
 
-
 4. Run the compiled Java program:
+
+bash
 
 java Quiz
 
-bash
+
 
 
 ## How to Play
