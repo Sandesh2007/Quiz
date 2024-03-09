@@ -1,5 +1,3 @@
-markdown
-
 # Basic Quiz Game
 
 A simple Java console-based quiz game created by San Desh.
