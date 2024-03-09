@@ -11,7 +11,7 @@ Installation
     Clone the repository: https://github.com/Sandesh2007/Quiz.git
 
 
-3. Navigate to the project directory:
+2. Navigate to the project directory:
 
 bash
 
