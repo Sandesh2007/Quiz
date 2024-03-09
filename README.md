@@ -8,27 +8,29 @@ A simple Java console-based quiz game created by San Desh.
 
 1. Clone this repository to your local machine:
 
-[git clone https://github.com/your-username/basic-quiz-game.git](https://github.com/sandygmr12/Quiz.git)
+Installation
 
-2. Navigate to the project directory:
+    Clone the repository: https://github.com/Sandesh2007/Quiz.git
+
+
+3. Navigate to the project directory:
 
 bash
 
-cd basic-quiz-game
+    cd Quiz/
+
 
 3. Compile the Java source file:
 
 bash
 
-javac Quiz.java
-
-markdown
+    javac Quiz.java
 
 4. Run the compiled Java program:
 
 bash
 
-java Quiz
+    java Quiz
 
 
 
